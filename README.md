@@ -10,6 +10,10 @@ It should just work right out of the box, no frills or complicated stuff.
 
 Unzipping a large number of zip files can be quite a laborious task to do manually and "select all/extract here" only extracts a the first selected file in windows 10. That's why this utility exists.
 
+## Requirements:
+OS: should work on nearly all Windows, linux, and possibly some Mac OS's
+Python: Version 2.7 or higher (up to 3.8 at least).
+
 ## To use: 
 
 ### Basic Computer Users:
