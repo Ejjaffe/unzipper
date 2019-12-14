@@ -7,7 +7,7 @@ Unzips *all* zip files in the directory you run it from. It just works right out
 **Beware:** When it unzips, it will overwrite existing directories with the same names as the zip files. **You can avoid disaster by renaming your zip files with unique names.**
 
 ## To use: 
-### If you know how to use git:
+### If you know how to use git/ know your way around a computer:
 
 1) git clone this repo anywhere.
 
@@ -17,7 +17,7 @@ Unzips *all* zip files in the directory you run it from. It just works right out
 
 4) Run unzipper.py in an IDE, via CMD (cd copy/paste/dir/with/zips/here; python unzipper.py), or by double-clicking it.
 
-### If you don't know how to use git:
+### Basic Computer Users:
 
 1) Install python 2.7 (or higher) if you don't have it.
 
