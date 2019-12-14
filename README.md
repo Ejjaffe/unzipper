@@ -4,7 +4,7 @@
 
 Unzips *all* zip files in the folder you run it from. 
 
-It should just work right out of the box, no frills or complicated stuff.
+It should just work right out of the box if you already have python, no frills or complicated stuff.
 
 **Beware:** When it unzips, it will overwrite existing directories with the same names as the zip files. **You can avoid disaster by renaming any files or folders with matching names.** For example, if there's a "my_zip_file.zip" and a "my_zip_file" folder, rename one of them to avoid losing the folder. If you can't do that, don't use the tool.
 
