@@ -8,7 +8,7 @@ It should just work right out of the box, no frills or complicated stuff.
 
 **Beware:** When it unzips, it will overwrite existing directories with the same names as the zip files. **You can avoid disaster by renaming any files or folders with matching names.** For example, if there's a "my_zip_file.zip" and a "my_zip_file" folder, rename one of them to avoid losing the folder. If you can't do that, don't use the tool.
 
-Unzipping a large number of zip files can be quite an laborious task to do manually and "select all/extract here" only extracts a the first selected file in windows 10. That's why this utility exists.
+Unzipping a large number of zip files can be quite a laborious task to do manually and "select all/extract here" only extracts a the first selected file in windows 10. That's why this utility exists.
 
 ## To use: 
 
