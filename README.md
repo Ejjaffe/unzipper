@@ -2,9 +2,11 @@
 
 ## Description
 
-Unzips *all* zip files in the file directory you run it from. It just works right out of the box, no frills or complicated stuff.
+Unzips *all* zip files in the folder you run it from. 
 
-**Beware:** When it unzips, it will overwrite existing directories with the same names as the zip files. **You can avoid disaster by renaming your zip files with unique names.**
+It should just work right out of the box, no frills or complicated stuff.
+
+**Beware:** When it unzips, it will overwrite existing directories with the same names as the zip files. **You can avoid disaster by renaming any files or folders with matching names.** For example, if there's a "my_zip_file.zip" and a "my_zip_file" folder, rename one of them to avoid losing the folder. If you can't do that, don't use the tool.
 
 ## To use: 
 ### If you know how to use git/ know your way around a computer:
@@ -29,3 +31,11 @@ Unzips *all* zip files in the file directory you run it from. It just works righ
 
 5) Double click unzipper.py to run it.
 
+## Notes
+Unzipper.py is designed to work for python versions 2.7 (most common for old systems) to 3.8 (the most recent one). It only imports standard packages, so there's no need to *pip install* anything.
+
+You can find out which python version you have installed by default by opening your command prompt (menu > search "CMD") and typing "python --version". If it says *"'python' is not a recognized command"*, you probably don't have python installed.
+
+To install python, you can use the link below and follow the instructions:
+
+https://www.python.org/downloads/
