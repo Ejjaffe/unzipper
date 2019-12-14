@@ -2,7 +2,7 @@
 
 ## Description
 
-Unzips *all* zip files in the directory you run it from. It just works right out of the box, no frills or complicated stuff.
+Unzips *all* zip files in the file directory you run it from. It just works right out of the box, no frills or complicated stuff.
 
 **Beware:** When it unzips, it will overwrite existing directories with the same names as the zip files. **You can avoid disaster by renaming your zip files with unique names.**
 
