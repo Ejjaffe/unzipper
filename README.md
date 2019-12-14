@@ -3,7 +3,8 @@
 ## Description
 
 Unzips *all* zip files in the directory you run it from. It just works right out of the box, no frills or complicated stuff.
-**Beware:** Will overwrite existing files with the same names as the zipped files.
+
+**Beware:** When it unzips, it will overwrite existing directories with the same names as the zip files. **You can avoid disaster by renaming your zip files with unique names.**
 
 ## To use: 
 ### If you know how to use git:
