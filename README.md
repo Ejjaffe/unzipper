@@ -14,7 +14,7 @@ It should just work right out of the box, no frills or complicated stuff.
 
 1) Install python 2.7 (or higher) if you don't have it.
 
-2) Create a text file in the directory containing some zip files. (Windows: Right click > new file > text file)
+2) Create a text file in the folder containing the zip files. (Windows: Right click > new file > text file)
 
 3) Copy-paste the contents of unzipper.py into this text file 
 
@@ -24,13 +24,13 @@ It should just work right out of the box, no frills or complicated stuff.
 
 ### If you know how to use git/ know your way around a computer:
 
+0) Install python 2.7 (or higher) if you don't have it.
+
 1) git clone this repo anywhere.
 
-2) Copy-paste unzipper.py into a directory with zip files.
+2) Copy-paste unzipper.py into the directory with zip files.
 
-3) Install python 2.7 (or higher) if you don't have it.
-
-4) Run unzipper.py in an IDE, via CMD (cd copy/paste/dir/with/zips/here; python unzipper.py), or by double-clicking it.
+3) Run unzipper.py in an IDE, via CMD (cd copy/paste/dir/with/zips/here; python unzipper.py), or by double-clicking it.
 
 ## Notes
 Unzipper.py is designed to work for python versions 2.7 (most common for old systems) to 3.8 (the most recent one). It only imports standard packages, so there's no need to *pip install* anything.
