@@ -21,7 +21,7 @@ Python: Version 2.7 or higher (up to 3.8 at least).
 
 1) Install python 2.7 (or higher) if you don't have it.
 
-2) Create a text file in the folder containing the zip files. (Windows: Right click > new file > text file)
+2) Create a text file in the folder containing the zip files. (Windows: Right click > New > text file)
 
 3) Copy-paste the contents of unzipper.py into this text file 
 
