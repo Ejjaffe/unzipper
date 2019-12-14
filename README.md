@@ -9,6 +9,19 @@ It should just work right out of the box, no frills or complicated stuff.
 **Beware:** When it unzips, it will overwrite existing directories with the same names as the zip files. **You can avoid disaster by renaming any files or folders with matching names.** For example, if there's a "my_zip_file.zip" and a "my_zip_file" folder, rename one of them to avoid losing the folder. If you can't do that, don't use the tool.
 
 ## To use: 
+
+### Basic Computer Users:
+
+1) Install python 2.7 (or higher) if you don't have it.
+
+2) Create a text file in the directory containing some zip files. (Windows: Right click > new file > text file)
+
+3) Copy-paste the contents of unzipper.py into this text file 
+
+4) Save it as "unzipper.py". (Windows: ctrl+shift+s should open the save-as window.)
+
+5) Double click unzipper.py in the folder to run it.
+
 ### If you know how to use git/ know your way around a computer:
 
 1) git clone this repo anywhere.
@@ -18,18 +31,6 @@ It should just work right out of the box, no frills or complicated stuff.
 3) Install python 2.7 (or higher) if you don't have it.
 
 4) Run unzipper.py in an IDE, via CMD (cd copy/paste/dir/with/zips/here; python unzipper.py), or by double-clicking it.
-
-### Basic Computer Users:
-
-1) Install python 2.7 (or higher) if you don't have it.
-
-2) Create a text file in the directory containing some zip files.
-
-3) Copy-paste the contents of unzipper.py into this text file
-
-4) Save it as "unzipper.py".
-
-5) Double click unzipper.py to run it.
 
 ## Notes
 Unzipper.py is designed to work for python versions 2.7 (most common for old systems) to 3.8 (the most recent one). It only imports standard packages, so there's no need to *pip install* anything.
