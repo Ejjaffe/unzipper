@@ -37,7 +37,7 @@ Unzipper.py is designed to work for python versions 2.7 (most common for old sys
 
 You can find out which python version you have installed by default by opening your command prompt (menu > search "CMD") and typing "python --version". If it says *"'python' is not a recognized command"*, you probably don't have python installed.
 
-To install python, you can use the links below and follow the instructions.
+To install python, you can use the links below and follow the instructions. If it's your first time installing a program or you feel uncomfortable,  ask for help.
 
 https://www.python.org/downloads/
 
