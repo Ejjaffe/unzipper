@@ -1,4 +1,4 @@
-# unzipper
+# Unzipper
 
 ## Description
 
