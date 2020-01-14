@@ -40,7 +40,7 @@ Python: Version 2.7 or higher (up to 3.8 at least).
 3) Run unzipper.py in an IDE, via CMD (cd copy/paste/dir/with/zips/here; python unzipper.py), or by double-clicking it.
 
 ## Notes
-Unzipper.py is designed to work for python versions 2.7 (most common for old systems) to 3.8 (the most recent one). It only imports standard packages, so there's no need to *pip install* anything.
+Unzipper.py is designed to work for python versions 2.7 (most common for old systems) to 3.8 (the most recent one). It only imports standard packages, so there's no need to '''pip install''' anything.
 
 You can find out which python version you have installed by default by opening your command prompt (menu > search "CMD") and typing "python --version". If it says *"'python' is not a recognized command"*, you probably don't have python installed.
 
