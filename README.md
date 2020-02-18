@@ -52,4 +52,4 @@ https://realpython.com/installing-python/
 
 # Unzipper.bash -- linux
 
-No need to download, cd to your directory of choice and run `unzip *.zip`. Or just go ahead and copy/run the script.
+No need to download, cd to your directory of choice and run `unzip *.zip` or `unzip \*.zip`. Or just copy to your directory of choice and run, but that seems like more work.
