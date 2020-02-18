@@ -1,4 +1,4 @@
-# Unzipper
+# Unzipper.py
 
 ## Description
 
@@ -49,3 +49,7 @@ To install python, you can use the links below and follow the instructions. If i
 https://www.python.org/downloads/
 
 https://realpython.com/installing-python/
+
+# Unzipper.bash -- linux
+
+No need to download, cd to your directory of choice and run `unzip *.zip`. Or just go ahead and copy/run the script.
