@@ -13,7 +13,7 @@ It should just work right out of the box if you already have python, no frills o
 ## Requirements:
 OS: should work on nearly all Windows, linux, and possibly some Mac OS's.
 
-Python: Version 2.7 or higher (up to 3.8 at least).
+Python: Version 2.7 or higher, (still works on 3.8).
 
 ## To use: 
 
